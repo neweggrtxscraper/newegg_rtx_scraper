@@ -6,6 +6,6 @@ Abuntu installation
 
 1. apt-get install python3 python3-pip
 
-2. pip3 install bs4
+2. pip3 install bs4, lxml
 
 3. python3 ./newegg.py
